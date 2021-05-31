@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: gold;
+}
+
+#title{
+    text-align: center;
+}
+
+figcaption{
+    text-align: center;
+}
+/*#main{
+    margin: 50px; 
+    background-color: #eee;
+    
+}
+
+#title{
+    text-align: center;
+    
+}
+
+
+img{
+    height:auto;
+    width: 70%;
+  max-width:1000px;
+  display:block;
+  margin:auto;
+  border: solid 5px #4000ff;
+}
+
+figcaption{
+    text-align: center;
+}    
+
+#tribute-info {
+    text-align: center;  
+}
+
+#tribute{
+    text-align: justify;
+    padding: 0 15px 15px 15px;
+}*/
